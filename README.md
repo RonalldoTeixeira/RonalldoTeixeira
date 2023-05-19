@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sou Desenvolvimento Web Full-Stack em formação pela Labenu, escola de desenvolvimento Web, onde pratico Projetos individuais e grupos, e é muito da hora.</h3>
+<h3 align="left">👩‍💻  Sou Desenvolvedor Web Full-Stack em formação pela Labenu, escola de desenvolvimento Web, onde pratico Projetos individuais e grupos, e é muito da hora.</h3>
 
 ###
 
-<p align="left">Sou de Floriano, interior do Piauí 🗺.<br><br>- 🔭Trabalho como Técnico em Eletrônica 🤖<br>- 📚 Atualmente estou aprendendo TypeScript, SQL e Knex<br>- ⚡ No meu tempo livre depois de arregaça no Call of Duty mobile🎮, vou estudar e criar projetos aleatórios, no intuito de aprender, aprender e aprender.</p>
+<p align="left">Sou de Floriano, interior do Piauí 🗺.<br><br>- 🔭Trabalho como Técnico em Eletrônica 🤖<br>- 📚 Atualmente estou aprendendo TypeScript, SQL e Knex<br>- ⚡ No meu tempo livre depois de arregaçar no Call of Duty mobile🎮, vou estudar e criar projetos aleatórios, com intuito de aprender, aprender e aprender.</p>
 
 ###
 
