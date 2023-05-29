@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou de Floriano, interior do Piauí 🗺.<br><br>- 🔭Trabalho como Técnico em Eletrônica 🤖<br>- 📚 Atualmente estou aprendendo TypeScript, SQL e Knex<br>- ⚡ No meu tempo livre depois de arregaçar no Call of Duty mobile🎮, vou estudar e criar projetos aleatórios, com intuito de aprender, aprender e aprender.</p>
+<p align="left">Sou de Floriano, interior do Piauí 🗺.<br><br>- 🔭Trabalho como Técnico em Eletrônica 🤖<br>- 📚 Atualmente estou aprendendo TypeScript, SQL e Knex<br>- ⚡ No meu tempo livre após arregaçar no Call of Duty mobile🎮, vou estudar e criar projetos aleatórios, com intuito de aprender, aprender e aprender.</p>
 
 ###
 
