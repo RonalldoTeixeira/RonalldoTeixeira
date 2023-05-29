@@ -30,8 +30,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div>
-<a href="https://beacons.ai/RonalldoTeixeira"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonalldoTeixeira&show_icons=true&theme=transparent">
+
 
 </div>
 
